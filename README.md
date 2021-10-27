@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RiJ108
+- 👀 I’m interested in programming everything
+- 💞 My favorite language is C++
