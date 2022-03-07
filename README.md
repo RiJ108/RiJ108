@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @RiJ108
-- 👀 I’m interested in programming anything
+- 👀 I’m interested in game mechanics et automation
 - 💞 My favorite language is C++
